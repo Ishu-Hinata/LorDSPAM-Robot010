@@ -5,14 +5,14 @@
 </p>
 
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/sameerpanthi/deadly-spam-bot?utm_source=github.com&utm_medium=referral&utm_content=sameerpanthi/deadly-spam-bot&utm_campaign=Badge_Grade_Settings)
-[![Size](https://img.shields.io/github/repo-size/sameerpanthi/deadly-spam-bot?style=flat-square&color=green)](https://github.com/sameerpanthi/deadly-spam-bot/)   
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/Lord-DSP3/LorDSPAM-Robot10?utm_source=github.com&utm_medium=referral&utm_content=Lord-DSP3/LorDSPAM-Robot10&utm_campaign=Badge_Grade_Settings)
+[![Size](https://img.shields.io/github/repo-size/Lord-DSP3?/LorDSPAM-Robot10/style=flat-square&color=green)](https://github.com/Lord-DSP3/LorDSPAM-Robot10/)   
 [![Python](https://img.shields.io/badge/Python-v3.9-blue)](https://www.python.org/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/sameerpanthi/deadly-spam-bot/graphs/commit-activity)
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/sameerpanthi/deadly-spam-bot)   
-[![Contributors](https://img.shields.io/github/contributors/sameerpanthi/deadly-spam-bot?style=flat-square&color=green)](https://github.com/sameerpanthi/deadly-spam-bot/graphs/contributors)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Lord-DSP3/LorDSPAM-Robot10/graphs/commit-activity)
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Lord-DSP3/LorDSPAM-Robot010)   
+[![Contributors](https://img.shields.io/github/contributors/Lord-DSP3/LorDSPAM-Robot10?style=flat-square&color=green)](https://github.com/Lord-DSP3/LorDSPAM-Robot10/graphs/contributors)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/sameerpanthi/deadly-spam-bot/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/Lord-DSP3/LorDSPAM-Robot10/blob/main/LICENSE)
 
 ----
 
