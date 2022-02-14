@@ -9,7 +9,7 @@ HELP_PIC = "https://telegra.ph/file/e5252af563d3bdfe5ea11.jpg"
 
 SAM_Help = "🔥🎋𝐋𝐨𝐫𝐃𝐒𝐏 Sᴘᴀᴍ Bᴏᴛ 🔥🎋\n\n"
  
-SAM_Help += f"_ᴄᴍɴᴅs ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ᴅᴇᴀᴅʟʏ ʙᴏᴛ__\n\n"
+SAM_Help += f"_ᴄᴍɴᴅs ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ʙᴏᴛ__\n\n"
 
 SAM_Help += f" ↧ 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 𝙲𝙼𝙳𝚂 ↧\n\n"
 
@@ -37,7 +37,7 @@ async def help(event):
         Button.url("ᴀʟʟ ᴄᴍᴅs", "https://telegra.ph/%F0%9D%97%A5%F0%9D%97%9C%F0%9D%97%AD%F0%9D%97%A2%F0%9D%97%98%F0%9D%97%9F-%F0%9D%97%AB-%F0%9D%97%A6%F0%9D%97%A3%F0%9D%97%94%F0%9D%97%A0-11-28-2")
         ],
         [
-        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/Deadly_spam_bot")
+        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/Anime_Gaming_chat_global")
         ] 
         ]
         )                                                         
