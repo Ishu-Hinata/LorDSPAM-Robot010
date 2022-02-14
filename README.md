@@ -1,7 +1,7 @@
 #  - 𝗗𝗘𝗔𝗗𝗟𝗬 𝗦𝗣𝗔𝗠 𝗕𝗢𝗧 -
 
 <p align="center">
-  <img src="https://telegra.ph/file/62bb6ed474f0cb497b0e5.jpg">
+  <img src="https://telegra.ph/file/e0fad27744428f1460d5c.jpg">
 </p>
 
 
@@ -19,12 +19,12 @@
 
 ## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
                           
-<a href="https://t.me/Deadly_spam_bot"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
-<a href="https://t.me/Deadly_spambot"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
+<a href="https://t.me/Anime_Gaming_Chat_Global"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
+<a href="https://t.me/Anime_Hub_Fz"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
 
 -------------------------------------------------
 
-## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 -[Akki](https://t.me/Godfatherakki)
+## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 -[DSP](https://t.me/Lord_DSP_3)
 
 -------------------------------------------------
 ## 🚀 Deploy on Heroku 
