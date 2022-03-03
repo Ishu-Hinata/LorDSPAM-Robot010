@@ -22,7 +22,7 @@ DeadlyX_Button = [
         Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/Anime_Gaming_chat_global")
         ],
         [
-        Button.url("• ʀᴇᴘᴏ •", "https://github.com/Lord-DSP3/LorDSPAM-Robot010")
+        Button.url("• Join •", "https://t.me/+KH3aoy6rsfcyMTI1")
         ]
         ]
         
@@ -50,7 +50,7 @@ async def start(event):
        TheDeadly = event.chat_id
        firstname = replied_user.user.first_name
        ownermsg = f"**Hi Master, Its me {bot_id}, Your Spam Bot !! \n\n Click Below Buttons For help**"
-       usermsg = f"**Hello, {firstname} ! Nice To Meet You, Well I Am {bot_id}, An Powerfull Spam Bot.** \n\n**If You Want to use this bot make request to @Lord_dsPRObot 🎋.** \n\n**"
+       usermsg = f"**Hello, {firstname} ! Nice To Meet You, Well I Am {bot_id}, An Powerfull Spam Bot.** \n\n** @Lord_dsPRObot 🎋.** \n\n**"
        if event.sender_id == OWNER_ID:
             await event.client.send_file(TheDeadly,
                   DEADLY_IMG,
