@@ -28,7 +28,7 @@
 
 -------------------------------------------------
 ## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Godfatherakkii/SAVAGE-BOTFATHER-SPAM)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https:https://github.com/Lord-DSP3/LorDSPAM-Robot010)
 ------------------------------------------------
 
 
