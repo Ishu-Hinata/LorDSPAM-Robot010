@@ -35,7 +35,7 @@ async def alive(event):
         Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/Anime_Gaming_chat_global")
         ],
         [
-        Button.url("• ʀᴇᴘᴏ •", "https://github.com/Lord-DSP3/LorDSPAM-Robot010")
+        Button.url("• ʀᴇᴘᴏ •", "https://telegra.ph/file/2612f11e4346266265fc1.jpg")
         ]
         ]
         )
@@ -100,7 +100,7 @@ async def ping(e):
 @SAM10.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
 async def restart(e):
     if e.sender_id in SUDO_USERS:
-        text = "**Restarting Your Deadly Spam Bot**.. Please Wait Until It Starts Again"
+        text = "**Restarting Your Spam Bot**.. Please Wait Until It Starts Again"
         await e.reply(text, parse_mode=None, link_preview=None)
         try:
             await SAM.disconnect()
