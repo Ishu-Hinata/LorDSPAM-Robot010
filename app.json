@@ -1,5 +1,5 @@
 {
-    "name": "Deadly Spam Bot",
+    "name": "Dsp spam ",
     "description": "MOST POWERFUL bot + STABLE SPAM USERBOTS",
     "logo": "",
     "keywords": [
@@ -15,47 +15,47 @@
     "env": {
              "API_ID": {
         "description": "Fill Api ID Take this value from My.telegram.org",
-        "value": "",
+        "value": "14704167",
         "required": true
       },
       "ALIVE_PIC": {
         "description": "your alive pic or video",
-        "value": "",
+        "value": "https://telegra.ph/file/4978e58f7a83b07dd81a8.jpg",
         "required": false
       },
       "API_HASH": {
         "description": "Fill Api hash Take this value from My.telegram.org",
-        "value": "",
+        "value": "9849f9d6e137162ae700950cf1cd5f3f",
         "required": true
       },
      "CMD_HNDLR": {
             "description": "Custom command handler.",
-            "value": "!",
+            "value": "/",
             "required": false
         },
       "BOT_TOKEN": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
-        "value": "",
+        "value": "5599031058:AAGpSz-hgbsQY0kXgVRQvgCZKG4-E0ZUIQQ",
         "required": true
       },
       "BOT_TOKEN2": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
-        "value": "",
+        "value": "5594023661:AAELZA1mgxiSI-CxuKzMtYpllGPzQYTDdkU",
         "required": true
       },
       "BOT_TOKEN3": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
-        "value": "",
+        "value": "5429624636:AAFPOADE1PzmBvFkmM-xpTEqYi_E_FxAre8",
         "required": true
       },
       "BOT_TOKEN4": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
-        "value": "",
+        "value": "5279768167:AAEk5Q66UM6ONPKB_o96V5HDyRypsILCTlw",
         "required": true
       },
       "BOT_TOKEN5": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
-        "value": "",
+        "value": "5384960204:AAF45AwUFQtTYG7OhjFpwI937KSbr6V7ofY",
         "required": true
       },
       "BOT_TOKEN6": {
