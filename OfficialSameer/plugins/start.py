@@ -18,11 +18,28 @@ Deadly_Button = [
                
 DeadlyX_Button = [
         [
-        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/Anime_Hub_Fz"),
-        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/Anime_Gaming_chat_global")
+        Button.url("𝙈𝙪𝙨𝙞𝙘 𝘽𝙤𝙩 𝄞", "https://t.me/Schwi_Musicbot"),
+        Button.url("𝘼𝙁𝙆 𝘽𝙤𝙩 ♡", "https://t.me/C2_Probot")
         ],
         [
-        Button.url("• Join •", "https://t.me/+KH3aoy6rsfcyMTI1")
+            InlineKeyboardButton(text="💕", url=f"https://t.me/Miss_Jibril"),
+            InlineKeyboardButton(text="♥️", url=f"https://t.me/Miss_STEPHANIEE"),
+            InlineKeyboardButton(text="🦊", url=f"https://t.me/Miss_Izuna"),
+            InlineKeyboardButton(text="🔮", url=f"https://t.me/Miss_FIEL"),
+            InlineKeyboardButton(text="🍒", url=f"https://t.me/Miss_Shiro"),
+        ],
+        [
+            InlineKeyboardButton(text="💕", url=f"https://t.me/Miss_Jibril"),
+            InlineKeyboardButton(text="♥️", url=f"https://t.me/Miss_STEPHANIEE"),
+            InlineKeyboardButton(text="🦊", url=f"https://t.me/Miss_Izuna"),
+            InlineKeyboardButton(text="🔮", url=f"https://t.me/Miss_FIEL"),
+            InlineKeyboardButton(text="🍒", url=f"https://t.me/Miss_Shiro"),
+        ],
+        [
+        Button.url("𝘼𝙣𝙞𝙢𝙚 𝘾𝙝𝙖𝙩 𝙂𝙧𝙤𝙪𝙥", "https://t.me/+LuNfF7pzIggyNWE1"),
+        ],
+        [
+        Button.url("𝐎𝐰𝐧𝐞𝐫", "https://t.me/Lord_DSP_3")
         ]
         ]
         
