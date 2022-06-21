@@ -60,27 +60,27 @@
       },
       "BOT_TOKEN6": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
-        "value": "",
+        "value": "5544424292:AAHrwS7sf-qlXhl6HqKPL_ks79ZBrcCphYo",
         "required": true
       },
       "BOT_TOKEN7": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
-        "value": "",
+        "value": "5333803269:AAGpj15C7TUwKqsoBlAOu8TdZO3vJIuqxkc",
         "required": true
       },
       "BOT_TOKEN8": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
-        "value": "",
+        "value": "5453186352:AAHM8fVgfYDlbdRBruccD31t794RRxfY7Lo",
         "required": true
       },
       "BOT_TOKEN9": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
-        "value": "",
+        "value": "5336582027:AAGGTStLCWcBSLug0YETEWLJm-7zkAkErIg",
         "required": true
       },
       "BOT_TOKEN10": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
-        "value": "",
+        "value": "5517964484:AAGHsv77whs_v1r50AUHBz4OEIgMfQxa5FU",
         "required": true
       },
        "SUDO_USER": {
