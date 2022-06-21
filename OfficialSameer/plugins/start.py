@@ -22,18 +22,18 @@ DeadlyX_Button = [
         Button.url("𝘼𝙁𝙆 𝘽𝙤𝙩 ♡", "https://t.me/C2_Probot")
         ],
         [
-            InlineKeyboardButton(text="💕", url=f"https://t.me/Miss_Jibril"),
-            InlineKeyboardButton(text="♥️", url=f"https://t.me/Miss_STEPHANIEE"),
-            InlineKeyboardButton(text="🦊", url=f"https://t.me/Miss_Izuna"),
-            InlineKeyboardButton(text="🔮", url=f"https://t.me/Miss_FIEL"),
-            InlineKeyboardButton(text="🍒", url=f"https://t.me/Miss_Shiro"),
+            InlineKeyboardButton(text="滅🩸", url=f"https://t.me/Tanjiro_Kamado_Robot"),
+            InlineKeyboardButton(text="風🤍", url=f"https://t.me/Sanemi_Shinazugawa_Robot"),
+            InlineKeyboardButton(text="炎🧡", url=f"https://t.me/Kyojuro_Rengoku_Robot"),
+            InlineKeyboardButton(text="蟲💜", url=f"https://t.me/Shinobu_Kochou_Robot"),
+            InlineKeyboardButton(text="水💙", url=f"https://t.me/Giyu_Tomioka_Robot"),
         ],
         [
-            InlineKeyboardButton(text="💕", url=f"https://t.me/Miss_Jibril"),
-            InlineKeyboardButton(text="♥️", url=f"https://t.me/Miss_STEPHANIEE"),
-            InlineKeyboardButton(text="🦊", url=f"https://t.me/Miss_Izuna"),
-            InlineKeyboardButton(text="🔮", url=f"https://t.me/Miss_FIEL"),
-            InlineKeyboardButton(text="🍒", url=f"https://t.me/Miss_Shiro"),
+            InlineKeyboardButton(text="岩🤎", url=f"https://t.me/Gyomei_Himejima_bot"),
+            InlineKeyboardButton(text="音💖", url=f"https://t.me/Tengen_uzui_Robot"),
+            InlineKeyboardButton(text="霞❄️", url=f"https://t.me/Muichiro_Tokito_Robot"),
+            InlineKeyboardButton(text="蛇💛", url=f"https://t.me/Obanai_Iguro_Robot"),
+            InlineKeyboardButton(text="恋💚", url=f"https://t.me/Mitsuri_Kanroji_PRobot"),
         ],
         [
         Button.url("𝘼𝙣𝙞𝙢𝙚 𝘾𝙝𝙖𝙩 𝙂𝙧𝙤𝙪𝙥", "https://t.me/+LuNfF7pzIggyNWE1"),
